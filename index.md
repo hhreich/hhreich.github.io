@@ -21,12 +21,14 @@ I'm a Senior Cybersecurity Analyst specializing in maintainting project's Author
 
 ## Experience & Skills
 
-blah
+Information Security, Access Control, Security Policies, Business Continuity Concepts/Planning, Security Documentation, Incident Response (IR), Disaster Recovery (DR), Contingency Planning (CP), Security Operations, Threat Analysis, Identity and Access Management, Risk Management, Architecture and Design, Cryptography and PKI.
 
 ## Education
 
-* School, History (Education), Date
+* Georgian Court University, Bachelor of Arts - History (K-8 Education), December 2008
   
 ## Hobbies
 
-blah
+* Writing for Young Adults, member of the Socitety for Children's Book Writers and Illustrators (SCBWI)
+* I enjoy learning languages. I'm intermediate in German, beginning in Polish, and know a little bit of French as well.
+* I enjoy keeping up with my studies in history, specifically ancient and medieval history.

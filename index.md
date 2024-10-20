@@ -13,7 +13,7 @@ I'm a Senior Cybersecurity Analyst specializing in maintainting project's Author
   * GovCIO - 2020 to present - Veterans Legacy Memorial (VLM) - Senior Cybersecurity Analyst
   * Leidos - 2019-2020 - Corporate internal project - Information Security Analyst
   * Leidos - 2018-2019 - VATAS - Junior Information Security Analyst 
-* **Deputy PM** 2021-Presnet
+* **Deputy PM** 2021-Present
   * GovCIO - 2021 to presnet - Veterans Legacy Memorial (VLM) - Deputy Project Manager 
 * **Trarining / Teaching** 2008-2009 and 2015-2018 
   * Leidos - 2015-2018 - VATAS - Training Lead / Trainer 

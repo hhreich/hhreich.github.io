@@ -2,7 +2,9 @@ CompTIA Security+ Certification
 * May 2019 - May 2025 
 
 (ISC)2 Certified in Cybersecurity 
-* February 2024 - February 2027 
+* February 2024 - February 2027
+
+Currently studying for the (ISC)2 CISSP certification 
 
 Related Skills: 
 * Information Security

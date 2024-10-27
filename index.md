@@ -9,13 +9,13 @@ description: Bio/Skills/Etc of Heather H. Reich
 
 I'm a Senior Cybersecurity Analyst specializing in maintainting project's Authority to Operate (ATO) on contracts with the Veterans Affairs (VA). 
 
-* **Cybersecurity Analyst** 2018-Present
+* **Cybersecurity Analyst** 2018-Present [Cybersecurity Skills](CyberSecurity.md)
   * GovCIO - 2020 to present - Veterans Legacy Memorial (VLM) - Senior Cybersecurity Analyst
   * Leidos - 2019-2020 - Corporate internal project - Information Security Analyst
   * Leidos - 2018-2019 - VATAS - Junior Information Security Analyst 
-* **Deputy Project Manager** 2021-Present
+* **Deputy Project Manager** 2021-Present [Project Management Skills](ProjectManagement.md)
   * GovCIO - 2021 to presnet - Veterans Legacy Memorial (VLM) - Deputy Project Manager 
-* **Trarining / Teaching** 2008-2009 and 2015-2018 
+* **Training / Teaching** 2008-2009 and 2015-2018 
   * Leidos - 2015-2018 - VATAS - Training Lead / Trainer 
   * Substitute Teacher - 2008-2009 
 

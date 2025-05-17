@@ -7,8 +7,8 @@ Project Management Skills:
 * Organization
 * Contract Deliverables
 * Project Documentation
-* Onboarding
-* CMMI Certification Efforts
+* Onboarding / Offboarding 
+* CMMI Certification Efforts 2022 & 2025 
 * Communication with Stakeholders 
 
 [HOME](index.md)
